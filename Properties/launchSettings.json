@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "tpmodul5_2311104041": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
