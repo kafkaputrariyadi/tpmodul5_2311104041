@@ -25,7 +25,6 @@ namespace tpmodul5_2311104041
     {
         static void Main()
         {
-            // Mengisi Data dengan NIM (contoh: "12345678")
             DataGeneric<string> dataNIM = new DataGeneric<string>("2311104041");
 
             dataNIM.PrintData();
